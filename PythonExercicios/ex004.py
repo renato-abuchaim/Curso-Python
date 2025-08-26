@@ -8,6 +8,7 @@ print('Está em maiúculas? ', a.isupper())
 print('Está em minúsculas? ', a.islower())
 print('Está capitalizada? ', a.istitle())
 
+
 a = input('Digiti algo: ')
 print(f'O tipo primitivo desse valor é {type(a)}')
 print('Só tem espaços? ', a.isspace())
